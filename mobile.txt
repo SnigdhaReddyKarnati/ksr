@@ -1,5 +1,6 @@
 name:samsung
 version:M30s
+version:M33s
 ram:128 gb
 version:M100s
 version:M32s
